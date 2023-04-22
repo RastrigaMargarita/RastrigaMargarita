@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RastrigaMargarita
-- 👀 I’m interested in program development
+- 👀 I’m interested in software development
 - 🌱 I’m currently looking for a job as front-end developer
 - 📫 How to reach me rastrm@mail.ru
